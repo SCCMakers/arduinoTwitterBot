@@ -1,6 +1,6 @@
 #include <Servo.h>
 #include <LiquidCrystal.h>
-
+//https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay
 // initialize the library by associating any needed LCD interface pin
 // with the arduino pin number it is connected to
 const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
